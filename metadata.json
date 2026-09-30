@@ -1,0 +1,6 @@
+{
+  "name": "GlyphBook",
+  "description": "Biblioteca digital minimalista estilo CMF Nothing com scanner de livros físicos por IA, lista de desejos e sincronização em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
